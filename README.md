@@ -18,3 +18,7 @@ https://user-images.githubusercontent.com/82614741/122090655-01185780-cdd6-11eb-
 
 
 https://user-images.githubusercontent.com/82614741/121964608-c9f46880-cd39-11eb-8bce-25d3bba61465.mp4
+
+Please feel free to use any front end and backend frameworks you would like, but make sure to include a readme with instructions on how to get your app up and running locally.
+
+The front-end should be responsible for displaying the content and functionality, while the backend should do the actual calculations.
